@@ -1,2 +1,2 @@
-# ClassEx2
+# HW2
 # Kaylee Silsbee
